@@ -4,7 +4,7 @@ Idioma: ESPAÑOL:
 
 Caso de prueba para procesamiento de data multiespectral tomada en cultivos mediante UAV/RPAS - (Test case for multispectral data processing taken in cultures using UAV / RPAS)
 
-En el siguiente link a Google Drive: https://drive.google.com/open?id=1-hahsqO47gVPYQI0K5u5Hs7PVLbUb4Jv, encontrará mapas radiometricos de tres (3) secciones de un viñedo ("cuarteles"), para los cuales se presentan una serie de mapas radiométrcos correspondientes a 5 bandas multiespectrales y a los índices de vegetación NVDI, GNDVI, NDRE, LCI, OSAVI. Estos mapas se obtuvieron luego de procesar imagenes multiespectrales tomados con un drone UAV/RPAS en un viñedo. A partir de los mencionados mapas, el profesional aspirante deberá estimar o determinar los siguientes aspectos:
+En el siguiente link a Google Drive: https://drive.google.com/open?id=1-hahsqO47gVPYQI0K5u5Hs7PVLbUb4Jv, encontrará mapas radiometricos de tres (3) secciones de un viñedo ("cuarteles"), para los cuales se presentan una serie de mapas radiométricos correspondientes a 5 bandas multiespectrales y a los índices de vegetación NVDI, GNDVI, NDRE, LCI, OSAVI. Estos mapas se obtuvieron luego de procesar imagenes multiespectrales tomados con un drone UAV/RPAS en un viñedo. A partir de los mencionados mapas, el profesional aspirante deberá estimar o determinar los siguientes aspectos:
 
 - Concentración de Nitrógeno en las hojas de las plantas
 - Distribución del contenido de Nitrógeno	
