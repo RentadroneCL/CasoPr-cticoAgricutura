@@ -22,7 +22,7 @@ Para procedar los datos debe utilizar aplicaciones de código abierto (Open Sour
 
 El aspirante dispone de una semana (7 días continuos) para entregar la solución del caso y debe engtregar 2 versiones, una en idioma Español y otra en Inglés.
 
-Las respuestas o consultas deben ser enviadas a hector.bastidas@rentadrone.cl y carlos.bastidas@rentadrone.cl
+Las respuestas o consultas deben ser enviadas a contacto@rentadrone.cl
 
 --------------------------------------------------------------------------------------------------------------------------------------
 Language: English:
@@ -49,4 +49,4 @@ To proceed with the data, you must use Open Source applications, for example the
 
 The applicant has one week (7 continuous days) to deliver the solution of the case and must include 2 versions, one in Spanish and one in English.
 
-The answers or questions should be sent to hector.bastidas@rentadrone.cl and carlos.bastidas@rentadrone.cl
+The answers or questions should be sent to contacto@rentadrone.cl
