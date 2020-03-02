@@ -1,3 +1,5 @@
+Idioma: ESPAÑOL: 
+
 # Caso Práctico Agricultura de Precisión
 
 Caso de prueba para procesamiento de data multiespectral tomada en cultivos mediante UAV/RPAS - (Test case for multispectral data processing taken in cultures using UAV / RPAS)
@@ -6,7 +8,7 @@ En el siguiente link a Google Drive: https://drive.google.com/open?id=1-hahsqO47
 
 - Concentración de Nitrógeno en las hojas de las plantas
 - Distribución del contenido de Nitrógeno	
-- Densidad del “Canopy” de Nitrógeno
+- Índice de Área Foliar o densidad del canopia / dosel de las plantas.
 - Contenido de clorofila 
 - Evaluación de la nutrición de los cultivos
 - Estado de crecimiento de las plantas
@@ -21,3 +23,30 @@ Para procedar los datos debe utilizar aplicaciones de código abierto (Open Sour
 El aspirante dispone de una semana (7 días continuos) para entregar la solución del caso y debe engtregar 2 versiones, una en idioma Español y otra en Inglés.
 
 Las respuestas o consultas deben ser enviadas a hector.bastidas@rentadrone.cl y carlos.bastidas@rentadrone.cl
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Language: English:
+
+# Precision Agriculture Case Study
+
+Test case for multispectral data processing taken in cultures using UAV / RPAS)
+
+In the following link to Google Drive: https://drive.google.com/open?id=1-hahsqO47gVPYQI0K5u5Hs7PVLbUb4Jv, you will find radiometric maps of three (3) sections of a vineyard ("barracks"), for which a series of radiometric maps corresponding to 5 multispectral bands and vegetation indexes NVDI, GNDVI, NDRE, LCI, OSAVI. These maps were obtained after processing multispectral images taken with a UAV / RPAS drone in a vineyard. From the aforementioned maps, the aspiring professional must estimate or determine the following aspects:
+
+- Nitrogen concentration in plant leaves
+- Nitrogen content distribution
+- Foliar Area Index or canopy density / plant canopy.
+- Chlorophyll content
+- Evaluation of crop nutrition
+- Plant growth status
+- Estimation of existing and necessary water
+- Soil nutrition status
+- Prediction of returns.
+
+For each of these aspects, please argue whether or not it is possible to estimate based on the data provided. If so, please indicate the index maps used for each case. In addition, others must present the methodological detail to make each estimate.
+
+To proceed with the data, you must use Open Source applications, for example the QGIS program.
+
+The applicant has one week (7 continuous days) to deliver the solution of the case and must include 2 versions, one in Spanish and one in English.
+
+The answers or questions should be sent to hector.bastidas@rentadrone.cl and carlos.bastidas@rentadrone.cl
