@@ -18,7 +18,7 @@ En el siguiente link a Google Drive: https://drive.google.com/open?id=1-hahsqO47
 
 Para cada uno de estos aspectos, favor argumentar si es posible o no realizar la estimación a partir de los datos suministrados. En caso positivo, favor indicar cuáles son los mapas de índices utilizados para cada caso. Además, demás debe presentar el detalle metodológico para realizar cada estimación.
 
-Para procedar los datos debe utilizar aplicaciones de código abierto (Open Source), por ejemplo el programa QGIS.
+Para procesar los datos debe utilizar aplicaciones de código abierto (Open Source), por ejemplo el programa QGIS.
 
 El aspirante dispone de una semana (7 días continuos) para entregar la solución del caso y debe engtregar 2 versiones, una en idioma Español y otra en Inglés.
 
@@ -45,7 +45,7 @@ In the following link to Google Drive: https://drive.google.com/open?id=1-hahsqO
 
 For each of these aspects, please argue whether or not it is possible to estimate based on the data provided. If so, please indicate the index maps used for each case. In addition, others must present the methodological detail to make each estimate.
 
-To proceed with the data, you must use Open Source applications, for example the QGIS program.
+To process the data, you must use Open Source applications, for example the QGIS program.
 
 The applicant has one week (7 continuous days) to deliver the solution of the case and must include 2 versions, one in Spanish and one in English.
 
