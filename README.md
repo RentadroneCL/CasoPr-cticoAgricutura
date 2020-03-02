@@ -18,6 +18,6 @@ Para cada uno de estos aspectos, favor argumentar si es posible o no realizar la
 
 Para procedar los datos debe utilizar aplicaciones de código abierto (Open Source), por ejemplo el programa QGIS.
 
-El aspirante dispone de una semana (7 días continuos) para entregar la solución del caso.
+El aspirante dispone de una semana (7 días continuos) para entregar la solución del caso y debe engtregar 2 versiones, una en idioma Español y otra en Inglés.
 
 Las respuestas o consultas deben ser enviadas a hector.bastidas@rentadrone.cl y carlos.bastidas@rentadrone.cl
