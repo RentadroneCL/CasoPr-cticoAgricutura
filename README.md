@@ -31,7 +31,7 @@ Language: English:
 
 Test case for multispectral data processing taken in cultures using UAV / RPAS)
 
-In the following link to Google Drive: https://drive.google.com/open?id=1-hahsqO47gVPYQI0K5u5Hs7PVLbUb4Jv, you will find radiometric maps of three (3) sections of a vineyard ("barracks"), for which a series of radiometric maps corresponding to 5 multispectral bands and vegetation indexes NVDI, GNDVI, NDRE, LCI, OSAVI. These maps were obtained after processing multispectral images taken with a UAV / RPAS drone in a vineyard. From the aforementioned maps, the aspiring professional must estimate or determine the following aspects:
+In the following link to Google Drive: https://drive.google.com/open?id=1-hahsqO47gVPYQI0K5u5Hs7PVLbUb4Jv, you will find radiometric maps of three (3) sections of a vineyard ("cuarteles"), for which a series of radiometric maps corresponding to 5 multispectral bands and vegetation indexes NVDI, GNDVI, NDRE, LCI, OSAVI. These maps were obtained after processing multispectral images taken with a UAV / RPAS drone in a vineyard. From the aforementioned maps, the aspiring professional must estimate or determine the following aspects:
 
 - Nitrogen concentration in plant leaves
 - Nitrogen content distribution
